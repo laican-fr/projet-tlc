@@ -1,5 +1,4 @@
 // $ANTLR 3.5.1 /home/axel/ESIR2/TLC/while.g 2024-12-09 12:31:15
-
 import org.antlr.runtime.*;
 import java.util.Stack;
 import java.util.List;
