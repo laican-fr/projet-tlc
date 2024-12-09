@@ -107,7 +107,7 @@ public class whileParser extends Parser {
 		return adaptor;
 	}
 	@Override public String[] getTokenNames() { return whileParser.tokenNames; }
-	@Override public String getGrammarFileName() { return "/home/axel/ESIR2/TLC/while.g"; }
+	@Override public String getGrammarFileName() { return "../grammar/while.g"; }
 
 
 	public static class start_rule_return extends ParserRuleReturnScope {

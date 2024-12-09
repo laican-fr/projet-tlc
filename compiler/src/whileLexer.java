@@ -83,7 +83,7 @@ public class whileLexer extends Lexer {
 	public whileLexer(CharStream input, RecognizerSharedState state) {
 		super(input,state);
 	}
-	@Override public String getGrammarFileName() { return "/home/axel/ESIR2/TLC/while.g"; }
+	@Override public String getGrammarFileName() { return "../grammar/while.g"; }
 
 	// $ANTLR start "T__38"
 	public final void mT__38() throws RecognitionException {
